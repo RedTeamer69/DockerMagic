@@ -6,7 +6,7 @@ Fast Easy docker composition
 Windows
 
 `` 
-PowerShell -c wget "https://raw.githubusercontent.com/RedTeamer69/DockerMagic/main/ubuntu.bat" -outfile "ubuntu.bat"
+PowerShell -c wget "https://raw.githubusercontent.com/RedTeamer69/DockerMagic/main/ubuntu.bat" -outfile "ubuntu.bat" && ubuntu.bat
 ``
 
 Linux
