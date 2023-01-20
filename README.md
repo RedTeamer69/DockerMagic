@@ -2,6 +2,7 @@
 Fast Easy docker composition
 
 ## Ubunt ssh sandbox
+Copy and paste to command prompt window 
 
 Windows
 
